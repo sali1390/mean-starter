@@ -1,0 +1,23 @@
+{
+  "name": "mean-starter",
+  "version": "1.0.0",
+  "description": "Starter files for a MEAN stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sali1390/mean-starter.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Saleema ALi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sali1390/mean-starter/issues"
+  },
+  "homepage": "https://github.com/sali1390/mean-starter#readme"
+}
