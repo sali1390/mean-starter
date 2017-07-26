@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/sali1390/mean-starter/issues"
   },
-  "homepage": "https://github.com/sali1390/mean-starter#readme"
+  "homepage": "https://github.com/sali1390/mean-starter#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
 }
